@@ -1,0 +1,4 @@
+﻿  The Main.cpp
+D:\ATM Project_\v 1.0.0\The Main.cpp(212,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+D:\ATM Project_\v 1.0.0\The Main.cpp(297,22): warning C4806: '==': unsafe operation: no value of type 'bool' promoted to type 'int' can equal the given constant
+  v 1.0.0.vcxproj -> D:\ATM Project_\v 1.0.0\Debug\v 1.0.0.exe
