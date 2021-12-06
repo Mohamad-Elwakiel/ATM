@@ -211,7 +211,7 @@ void transfer(string s1, int& T1, int& T2)
 void main()
 {
 
-
+	cout << "hello";
 	int color = 10;
 	person client[10];
 	person bill;
